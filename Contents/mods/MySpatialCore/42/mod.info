@@ -1,6 +1,6 @@
 name=My Spatial Core
 id=MySpatialCore
-modversion=1.6
+modversion=1.7
 icon=icon.png
 poster=poster.png
 description=<RGB:1,0.9,0.5>Core library for the MySpatial mod series. <LINE><LINE>
