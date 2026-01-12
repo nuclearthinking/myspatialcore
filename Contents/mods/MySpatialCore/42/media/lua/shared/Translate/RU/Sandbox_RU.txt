@@ -1,0 +1,6 @@
+Sandbox_RU = {
+    Sandbox_MySpatialCore = "My Spatial Core", -- 1.0/31.12.2025 # mod name, do not translate
+    
+    Sandbox_ZombieCoreDropChance = "Шанс выпадения ядра зомби", -- 1.0/31.12.2025
+    Sandbox_ZombieCoreDropChance_tooltip = "Процентный шанс выпадения Странного Ядра Зомби (1-100%).", -- 1.0/31.12.2025
+}

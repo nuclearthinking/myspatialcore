@@ -1,0 +1,3 @@
+ItemName_EN = {
+    ItemName_Base.MagicalCore = "Strange Zombie Core", -- 1.0/31.12.2025
+}

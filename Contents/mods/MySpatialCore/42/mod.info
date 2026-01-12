@@ -1,0 +1,16 @@
+name=My Spatial Core
+id=MySpatialCore
+modversion=1.5
+icon=icon.png
+poster=poster.png
+description=<RGB:1,0.9,0.5>Core library for the MySpatial mod series. <LINE><LINE>
+description=<RGB:0.8,1,0.8>Features: <LINE>
+description=- Zombie Core System: Zombies drop Strange Zombie Cores (configurable drop rate) <LINE>
+description=- CUI Framework: Complete custom UI framework for mod developers <LINE>
+description=- Shared Resources: Textures, translations, and utilities <LINE>
+description=- Developer Tools: Button, ScrollView, ProgressBar, SearchBox components <LINE><LINE>
+description=<RGB:1,0.9,0.5>Required dependency for: <LINE>
+description=- My Spatial Refuge <LINE>
+description=- My Spatial Sack <LINE><LINE>
+description=<RGB:1,1,1>This is a library mod - install it to use MySpatial mods!
+versionMin=42.13

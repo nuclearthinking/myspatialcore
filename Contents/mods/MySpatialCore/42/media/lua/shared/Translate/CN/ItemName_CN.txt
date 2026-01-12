@@ -1,0 +1,3 @@
+ItemName_CN = {
+    ItemName_Base.MagicalCore = "奇异核心", -- 1.0/31.12.2025
+}

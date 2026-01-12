@@ -1,0 +1,3 @@
+ItemName_RU = {
+    ItemName_Base.MagicalCore = "Странное Ядро Зомби", -- 1.0/31.12.2025
+}

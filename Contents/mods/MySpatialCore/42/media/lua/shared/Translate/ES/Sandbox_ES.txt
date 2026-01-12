@@ -1,0 +1,6 @@
+Sandbox_ES = {
+    Sandbox_MySpatialCore = "My Spatial Core", -- 1.0/31.12.2025 # mod name, do not translate
+    
+    Sandbox_ZombieCoreDropChance = "Probabilidad de Obtener Núcleo de Zombi", -- 1.0/31.12.2025
+    Sandbox_ZombieCoreDropChance_tooltip = "Probabilidad porcentual de que los zombis suelten un Extraño Núcleo de Zombi (1-100%).", -- 1.0/31.12.2025
+}

@@ -1,0 +1,14 @@
+module Base
+{
+	item MagicalCore
+	{
+		DisplayName = Strange Zombie Core,
+		DisplayCategory = Material,
+		ItemType = base:normal,
+		Weight = 0.02,
+		Icon = ZombieCore,
+		StaticModel = Clay,
+		WorldStaticModel = Clay,
+	}
+}
+
