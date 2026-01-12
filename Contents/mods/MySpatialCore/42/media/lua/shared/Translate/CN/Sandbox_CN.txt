@@ -1,6 +1,6 @@
 Sandbox_CN = {
     Sandbox_MySpatialCore = "My Spatial Core", -- 1.0/31.12.2025 # mod name, do not translate
     
-    Sandbox_ZombieCoreDropChance = "僵尸核心掉落几率", -- 1.0/31.12.2025
-    Sandbox_ZombieCoreDropChance_tooltip = "僵尸掉落奇异僵尸核心的百分比几率（1-100%）。", -- 1.0/31.12.2025
+    Sandbox_ZombieCoreDropChance = "核心掉落几率", -- 1.6/31.12.2025
+    Sandbox_ZombieCoreDropChance_tooltip = "僵尸携带奇异核心的概率 (1-100%)", -- 1.6/31.12.2025
 }
