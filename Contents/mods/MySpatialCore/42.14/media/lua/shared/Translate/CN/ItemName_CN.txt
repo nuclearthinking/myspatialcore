@@ -1,0 +1,3 @@
+ItemName_CN = {
+    Base.MagicalCore = "奇异核心",
+}

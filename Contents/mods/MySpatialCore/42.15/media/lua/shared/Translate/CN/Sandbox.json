@@ -1,0 +1,5 @@
+{
+    "Sandbox_MySpatialCore": "My Spatial Core",
+    "Sandbox_ZombieCoreDropChance": "核心掉落几率",
+    "Sandbox_ZombieCoreDropChance_tooltip": "僵尸携带奇异核心的概率 (1-100%)"
+}
