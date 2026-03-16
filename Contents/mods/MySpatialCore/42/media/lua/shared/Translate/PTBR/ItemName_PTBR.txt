@@ -1,3 +1,0 @@
-ItemName_PTBR = {
-    ItemName_Base.MagicalCore = "Estranho Núcleo de Zumbi", -- 1.0/31.12.2025
-}

@@ -1,0 +1,5 @@
+Sandbox_ES = {
+    Sandbox_MySpatialCore = "My Spatial Core",
+    Sandbox_ZombieCoreDropChance = "Probabilidad de Obtener Núcleo de Zombi",
+    Sandbox_ZombieCoreDropChance_tooltip = "Probabilidad porcentual de que los zombis suelten un Extraño Núcleo de Zombi (1-100%).",
+}

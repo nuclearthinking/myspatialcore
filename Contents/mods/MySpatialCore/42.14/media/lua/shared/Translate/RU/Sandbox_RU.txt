@@ -1,0 +1,5 @@
+Sandbox_RU = {
+    Sandbox_MySpatialCore = "My Spatial Core",
+    Sandbox_ZombieCoreDropChance = "Шанс выпадения ядра зомби",
+    Sandbox_ZombieCoreDropChance_tooltip = "Процентный шанс выпадения Странного Ядра Зомби (1-100%).",
+}
